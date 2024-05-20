@@ -1,0 +1,816 @@
+﻿  Assignment 1.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BackgroundController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BackgroundController.cpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BackgroundController.cpp(36,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BulletController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(67,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(68,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(108,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(109,39): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(110,33): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(111,34): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(121,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(122,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(124,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(124,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(161,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(169,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\BulletController.cpp(169,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  EndingController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EndingController.cpp(85,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EndingController.cpp(174,23): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  EnemyController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(169,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(246,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(249,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(249,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(249,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(249,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(278,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(279,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(280,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(280,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(311,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(312,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(315,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(315,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(333,76): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(333,52): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(333,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(333,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(339,97): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(339,73): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(339,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(339,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(349,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(350,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(380,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(402,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(402,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(402,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(402,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(424,138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(424,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(424,131): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(424,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(427,105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(427,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(427,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(427,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,191): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,187): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(434,159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(479,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(479,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(480,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(480,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(487,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(487,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(488,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(494,127): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(494,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(494,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(494,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(502,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(508,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(509,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(511,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(511,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(554,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(555,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(557,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(557,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(557,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(557,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(562,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(562,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(562,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(562,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(570,39): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(584,135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(584,107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(584,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(584,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(587,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(598,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(627,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(633,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(634,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(636,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(636,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(696,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(696,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(719,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(719,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(719,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(719,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(720,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(720,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(720,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(720,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(730,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(736,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(797,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(797,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(824,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(824,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(824,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(824,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(825,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(825,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(825,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(825,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(835,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(841,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(901,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(901,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(917,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(917,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(917,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(917,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(918,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(918,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(918,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(918,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(928,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(934,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1000,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1000,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1027,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1027,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1027,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1027,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1032,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1042,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1043,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1045,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1046,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1159,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1223,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1223,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1255,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1255,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1255,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1255,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1258,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1266,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1266,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1278,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1285,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1286,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1288,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1289,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1311,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1312,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1313,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1313,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1331,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1332,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1360,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1361,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1390,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1391,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1420,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1421,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1454,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1455,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1489,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1490,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1522,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.cpp(1547,20): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameObject.cpp
+  MenuController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(30,88): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(30,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(33,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(33,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(52,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(52,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(79,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(79,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\MenuController.cpp(186,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ParticleController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(54,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(88,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(88,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(92,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(92,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\ParticleController.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+  PlayerController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(44,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(44,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(45,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(45,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(113,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(113,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(113,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(113,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(118,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(118,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(118,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(118,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(123,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(123,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(123,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(123,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(128,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(128,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(128,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(128,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(147,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(148,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(159,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(159,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(160,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(160,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(169,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(169,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(173,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(173,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(267,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(268,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(268,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(291,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(343,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(343,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(395,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(403,143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(403,133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(403,123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(403,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(430,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(431,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(432,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(433,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(436,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(440,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(443,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(443,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(444,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(444,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(451,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(455,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(461,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(461,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(471,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(471,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(482,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\PlayerController.cpp(482,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Renderer.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(30,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(31,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(96,12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(131,46): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(207,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\Renderer.cpp(207,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RoomController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\EnemyController.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(67,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(67,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(176,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(176,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(178,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(178,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(217,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(218,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(225,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(225,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(228,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(228,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(237,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(237,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(240,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(240,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(249,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(249,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(252,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(252,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(261,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(261,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(264,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(264,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(279,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(279,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(280,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(283,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(283,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(293,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(294,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(299,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(299,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(315,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(359,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(520,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(628,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(641,13): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(641,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(653,12): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(653,15): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(741,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(742,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(752,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(752,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(753,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(753,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(754,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(754,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(755,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(755,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(762,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(762,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(763,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(763,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(764,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(764,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(765,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(765,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(800,70): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(800,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(800,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(932,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(932,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(937,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(937,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(941,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(941,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(945,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(945,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(950,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\RoomController.cpp(951,30): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SpriteLoader.cpp
+  TextController.cpp
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\TextController.cpp(69,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\TextController.cpp(121,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\TextController.cpp(136,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\TextController.cpp(179,53): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\TextController.cpp(243,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tools.cpp
+  Generating Code...
+C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Assignment 1\SpriteLoader.cpp(46): warning C4715: 'SpriteLoader::GetTexture': not all control paths return a value
+  Assignment 1.vcxproj -> C:\Users\CSMJCHAL\OneDrive - Liverpool John Moores University\Semester 2\Maths and Graphics\Assignment 1\SFML-Assignment-1\Assignment 1\Debug\Assignment 1.exe
